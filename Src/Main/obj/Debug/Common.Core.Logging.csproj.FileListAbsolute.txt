@@ -1,0 +1,10 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Logging\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Logging.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Logging\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Logging.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Logging\src\obj\Debug\Common.Core.Logging.csprojResolveAssemblyReference.cache
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Logging\src\obj\Debug\USC.GISResearchLab.Common.Core.Logging.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Logging\src\obj\Debug\USC.GISResearchLab.Common.Core.Logging.pdb
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Logging\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Logging.dll
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Logging\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Logging.pdb
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Logging\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Logging.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Logging\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Logging.pdb
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Logging\Src\Main\obj\Debug\Common.Core.Logging.csprojResolveAssemblyReference.cache
