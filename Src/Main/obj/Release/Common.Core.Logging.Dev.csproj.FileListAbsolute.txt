@@ -1,3 +1,0 @@
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Logging.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging\Src\Main\obj\Release\Common.Core.Logging.Dev.csprojResolveAssemblyReference.cache
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Logging.dll
