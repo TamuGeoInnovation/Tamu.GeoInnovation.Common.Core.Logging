@@ -12,7 +12,7 @@ namespace USC.GISResearchLab.Common.Logs
 
         public static string GetLogFileForApplication(string applicationPath)
         {
-            return Path.Combine(applicationPath,  "log.txt");
+            return Path.Combine(applicationPath, "log.txt");
         }
     }
 }

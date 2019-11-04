@@ -5,11 +5,11 @@ using USC.GISResearchLab.Common.Utils.Files;
 
 namespace USC.GISResearchLab.Common.Utils.Logs
 {
-	/// <summary>
-	/// Summary description for LogUtils.
-	/// </summary>
-	public class LogUtils
-	{
+    /// <summary>
+    /// Summary description for LogUtils.
+    /// </summary>
+    public class LogUtils
+    {
 
         public static void Log2File(string fileName, string msg)
         {
@@ -22,7 +22,7 @@ namespace USC.GISResearchLab.Common.Utils.Logs
             MethodBase methodBase = stackFrame.GetMethod();
 
             callingAssembly = stackFrame.GetFileName();
-            
+
             if (callingAssembly != null)
             {
                 callingAssemblyPath = FileUtils.GetFileName(callingAssembly);
@@ -132,7 +132,7 @@ namespace USC.GISResearchLab.Common.Utils.Logs
                 }
                 else
                 {
-                    stackFrame = stackTrace.GetFrame(stackTrace.FrameCount-1);
+                    stackFrame = stackTrace.GetFrame(stackTrace.FrameCount - 1);
                 }
 
                 string callingDllPath = stackFrame.GetFileName();
@@ -144,5 +144,5 @@ namespace USC.GISResearchLab.Common.Utils.Logs
             }
             return ret;
         }
-	}
+    }
 }

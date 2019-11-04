@@ -7,9 +7,9 @@ using USC.GISResearchLab.Common.Diagnostics.TraceEvents;
 
 namespace USC.GISResearchLab.Common.Utils.Directories
 {
-	/// <summary>
-	/// Summary description for DirectoryUtils.
-	/// </summary>
+    /// <summary>
+    /// Summary description for DirectoryUtils.
+    /// </summary>
     public class DirectoryUtilsTraceable
     {
         public DirectoryUtilsTraceable()
